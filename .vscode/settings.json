@@ -12,10 +12,9 @@
     "python.analysis.completeFunctionParens": true,
     "python.analysis.diagnosticSeverityOverrides": {
         "reportGeneralTypeIssues": "warning",
-        "reportUndefinedVariable": "warning",
+        "reportUndefinedVariable": "none",
         "reportOptionalMemberAccess": "warning"
     },
-    "notebook.formatOnCellExecution": true,
     //////////////////////////////////////
     // Files
     //////////////////////////////////////
@@ -53,6 +52,7 @@
     // Spell Checker
     //////////////////////////////////////
     "cSpell.words": [
+        "figsize",
         "TLDR"
     ]
 }

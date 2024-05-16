@@ -1,5 +1,7 @@
 ## Local dev setup
 
+### Linting with `pylint`
+
 - Install the recommended VSCode extensions. This includes `pylint` (Python linting) and `black` (Python formatting). VSCode is setup via the `settings.json` to format on save.
 
 > [!Tip]
@@ -8,3 +10,5 @@
 - Install `SageMath` as described [here](https://github.com/matematiflo/CompAssistedMath2024/tree/main/Sage#installation-of-sage-via-conda-forge).
 
 - Access the `sage` shell by typing `mamba activate sage` and then `sage` in your terminal. Then install the `pylint` package: `pip install pylint`. Otherwise, you won't be able to format/lint the Python code.
+
+- After that, reload the VSCode window and Pylint should be good to go even inside Jupyter notebooks.
