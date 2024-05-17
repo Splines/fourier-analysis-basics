@@ -11,4 +11,4 @@
 
 - Access the `sage` shell by typing `mamba activate sage` and then `sage` in your terminal. Then install the `pylint` package: `pip install pylint`. Otherwise, you won't be able to format/lint the Python code.
 
-- After that, reload the VSCode window and Pylint should be good to go even inside Jupyter notebooks.
+- After that, reload the VSCode window and Pylint should be good to go even inside Jupyter notebooks. With the cursor positioned in a Jupyter notebook *code* cell (*not* inside a markdown cell), press `Ctrl + Alt + L` (or `Shift + Alt + F` if the first one is not working) to format/lint the code. If none of these shortcuts are working, open the command palette in VSCode (`Ctrl + Shift + P`) and type `Format Document` or `Format Cell`.
