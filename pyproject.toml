@@ -1,0 +1,15 @@
+[tool.pylint."messages control"]
+disable = [
+    "missing-module-docstring",
+    "missing-function-docstring",
+    "missing-class-docstring",
+    "fixme",
+    "too-few-public-methods",
+]
+
+[tool.pylint.format]
+max-line-length = 100
+max-module-lines = 500
+
+[tool.black]
+line-length = 100

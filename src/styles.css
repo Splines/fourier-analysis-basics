@@ -1,0 +1,30 @@
+.warn {
+    padding: 0.5em;
+    margin: 0.3em;
+    background-color: #FBAAAA;
+    color: #521919;
+    border-left: solid #521919 4px;
+    border-radius: 4px;
+}
+
+.def {
+    padding: 0.5em;
+    margin: 0.3em;
+    background-color: #FFFFCC;
+    color: #2d2c00;
+    border-left: solid #2d2c00 4px;
+    border-radius: 4px;
+}
+
+.theorem {
+    padding: 0.5em;
+    margin: 0.3em;
+    background-color: #E9D3F8;
+    color: #5c108f;
+    border-left: solid #5c108f 4px;
+    border-radius: 4px;
+}
+
+div p {
+    margin: 1em;
+}
