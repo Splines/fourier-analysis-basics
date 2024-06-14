@@ -10,7 +10,7 @@
 <br>
 
 
-### Abstract
+## Abstract
 
 **In this project, we will discuss what sound is, how to represent it mathematically & in a computer, and how to examine its frequency content using Fourier analysis. We will use SageMath along the way for the implementation and for interactive plots.** [SageMath](https://www.sagemath.org/) is a free open-source computer algebra system as superset of Python which bundles many great libraries like `numpy`, `scipy`, `matplotlib`, and more. In the frequency domain, we can manipulate the frequency spectrum of a sound as will be demonstrated by implementing a rudimentary low-pass filter to cut off high frequencies of a square wave signal.
 
@@ -79,6 +79,6 @@ If you prefer to use a JupyterNotebook in the browser, open the terminal (`Ctrl 
 
 
 
-### License
+## License
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/Splines/fourier-analysis-basics">The basics of Fourier Analysis</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/splines">Dominic Plein</a> & Felix Lentze is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
