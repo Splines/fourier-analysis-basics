@@ -1,10 +1,15 @@
 <div align="center">
-    <h3 align="center"><strong>The basics of Fourier analysis</strong></h3>
+    <h2 align="center"><strong>Basics of Fourier Analysis
+    <br>— The Linear Algebra behind sound</strong></h2>
     <p>
-        A project by Dominic Plein <a href="https://youtube.com/@splience">@Splience</a> & Felix Lentze<br>in the course of a seminar on <a href="https://matematiflo.github.io/SoSe_2024/CompAssistedMath2024.html">computer-assisted maths</a>.
+        <i>A project by Dominic Plein (<a href="https://youtube.com/@splience">@Splience</a>) & Felix Lentze<br>in the course of a seminar on <a href="https://matematiflo.github.io/SoSe_2024/CompAssistedMath2024.html">computer-assisted maths</a>.</i>
     </p>
-    <a href="./src/fourier.ipynb">Jupyter notebook</a>
-    | <a href="https://youtube.com/@splience">YouTube Video (TODO)</a>
+    <a href="https://youtu.be/SB_8kS_kBMI">
+        <img src="https://github.com/Splines/fourier-analysis-basics/assets/37160523/6131d0e3-db50-4698-b8eb-5727899811bf"
+        width="550px" alt="Thumbnail of the linked YouTube video"/>
+    </a><br>
+    <strong><a href="./src/fourier.ipynb">Jupyter notebook</a>
+    | <a href="https://youtu.be/SB_8kS_kBMI">YouTube Video</a></strong>
 </div>
 
 <br>
